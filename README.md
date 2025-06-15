@@ -10,4 +10,6 @@ Users can:
 📱 **Download APK**  
 https://github.com/NavneetKumar-GS/GameSocio
 
+⚠️ You may need to enable **"Install from Unknown Sources"** in your Android device settings.
+
 > Built using FlutterFlow & Firebase.
