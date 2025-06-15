@@ -3,7 +3,7 @@
 A simple social platform for Indian gamers and game developers.
 
 Users can:
-- Share posts with screenshots
+- Share game opinions, devlogs , game recommendation, devtips, showcase your game, achievements and much more.
 - Connect as gamers or devs
 - Discover each other’s projects and experiences
 
